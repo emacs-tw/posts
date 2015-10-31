@@ -1,0 +1,5 @@
+* 用 haskell 寫 emacs 擴充
+
+https://github.com/knupfer/haskell-emacs
+
+- Lim Bun Chun

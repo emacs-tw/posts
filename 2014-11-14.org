@@ -1,0 +1,5 @@
+* Emacs 已將源碼轉移到 git
+
+http://lars.ingebrigtsen.no/2014/11/13/welcome-new-emacs-developers/
+
+- Lim Bun Chun

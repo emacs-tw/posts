@@ -1,0 +1,5 @@
+* 展望 Emacs 25
+
+http://endlessparentheses.com/big-things-to-expect-from-emacs-25.html
+
+- Lim Bun Chun

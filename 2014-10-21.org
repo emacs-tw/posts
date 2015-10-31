@@ -1,0 +1,5 @@
+* Emacs 24.4 釋出 (撒花)
+
+http://lists.gnu.org/archive/html/emacs-devel/2014-10/msg00713.html
+
+- Lim Bun Chun

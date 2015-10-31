@@ -1,0 +1,11 @@
+* 謝謝大家來參加第二次 Emacs 打滴 2nd ，沒來參加到或是現場聽的不太清楚的可以看直播記錄
+
+http://youtu.be/oOm_jvLshow
+
+- Kai-Yuan Cheng
+
+* 在 Emacs 裡畫 UML 類別圖
+
+http://youtu.be/cIuX87Xo8Fc
+
+- Lim Bun Chun

@@ -1,0 +1,5 @@
+* 終於有 Emacs 的新書了
+
+https://www.masteringemacs.org/book
+
+- Lim Bun Chun

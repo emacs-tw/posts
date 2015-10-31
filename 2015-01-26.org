@@ -1,0 +1,5 @@
+* kuanyui 補完了 coldnew 之前做的 org-mode 輸出成 HTML5 投影片功能，歡迎大家來玩(用)！
+
+https://github.com/kuanyui/org-ioslide
+
+- Kai-Yuan Cheng
