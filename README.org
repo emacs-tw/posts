@@ -1,3 +1,5 @@
 * Posts
 
 爲了避免遺失在 facebook 訊息大海中，因此將社團中分享的貼文轉錄於此 
+
+[[https://www.facebook.com/groups/emacs.taiwan/][Emacs Taiwan 社團]]
